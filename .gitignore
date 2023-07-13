@@ -4,7 +4,5 @@ cog_instance_data
 __debug*
 __pycache__
 checkpoints
-.cog
 *.safetensors
 output.zip
-cog.yaml
